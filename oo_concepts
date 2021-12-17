@@ -1,0 +1,22 @@
+Encapsulation, Inheritance and Interfaces
+
+Object Encapsulation
+What is it? 
+objects, classes, instances
+Simple Examples: contacts, vehicles
+Real World Examples: order, patient record
+What it looks like in Java (classes)
+Exercises
+
+Inheritance
+What is it? Why use it? When to use it?  
+Examples: shapes, person, 
+Polymorphism
+What this looks like in Java. 
+
+Interfaces
+What do they solve?
+How to implement? 
+Example
+
+Exercises for inheritance and interfaces
