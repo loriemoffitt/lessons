@@ -1,0 +1,19 @@
+Vendor
+Vendor Code
+Vendor Phone
+Part Number
+Name
+Description
+WD Price
+Cost
+Retail Price
+Price Effective Date
+Height
+Length
+Width
+Height
+upccodes
+Country of Origin
+Country Unit of Sale Code
+Country Tax Rate
+Country of Origin Name
