@@ -11,7 +11,7 @@ Price Effective Date
 Height
 Length
 Width
-Height
+Weight
 upccodes
 Country of Origin
 Country Unit of Sale Code
