@@ -7,7 +7,7 @@ Publications and Presentations
 
 
 Lessons
-* [Java OOP Concepts](Java-OOP-Concepts)
+* [Java OOP Concepts](https://github.com/loriemoffitt/lessons/wiki/Java-OOP-Concepts)
 * [Java Debugging with IntelliJ](Java-Debugging-with-IntelliJ)
 * [Working with Relational Data in SQL](Working-with-Relational-Data-in-SQL)
 * [Efficient Programming Tips](Efficient-Programming)
