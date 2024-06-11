@@ -8,13 +8,13 @@ Publications and Presentations
 
 Lessons
 * [Java OOP Concepts](https://github.com/loriemoffitt/lessons/wiki/Java-OOP-Concepts)
-* [Java Debugging with IntelliJ](Java-Debugging-with-IntelliJ)
-* [Working with Relational Data in SQL](Working-with-Relational-Data-in-SQL)
-* [Efficient Programming Tips](Efficient-Programming)
-* [Essential Diagrams for Software Programmers](Essential-Diagrams-for-Software-Programmers)
-* [Logging](Logging)
-* [Regular Expressions](Regular-Expressions)
-* [Agile Development with SCRUM](Agile-Development-with-SCRUM)
+* [Java Debugging with IntelliJ](https://github.com/loriemoffitt/lessons/wiki/Java-Debugging-with-IntelliJ)
+* [Working with Relational Data in SQL](https://github.com/loriemoffitt/lessons/wiki/Working-with-Relational-Data-in-SQL)
+* [Efficient Programming Tips](https://github.com/loriemoffitt/lessons/wiki/Efficient-Programming)
+* [Essential Diagrams for Software Programmers](https://github.com/loriemoffitt/lessons/wiki/Essential-Diagrams-for-Software-Programmers)
+* [Logging](https://github.com/loriemoffitt/lessons/wiki/Logging)
+* [Regular Expressions](https://github.com/loriemoffitt/lessons/wiki/Regular-Expressions)
+* [Agile Development with SCRUM](https://github.com/loriemoffitt/lessons/wiki/Agile-Development-with-SCRUM)
 
 Examples
 * [MongoDB Java Example](https://github.com/loriemoffitt/MongoDBJavaExample)
